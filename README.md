@@ -1,1 +1,43 @@
 # IEI_N4_C2
+Clases de Backend con Django
+
+<<<<<<<<<< HEAD
+## Creación Proyectos con Django
+
+1. **Creación de repositorio en "https://github.com".**
+- Vinculamos el repositorio con nuestro editor de código, idealmente VSCode.
+2. **Creación de Entorno (ambiente) Virtual**
+- Nos situamos en el directorio principal de nuestra aplicación.
+- Ubicamos en este directorio, abrimos un terminal.
+- Ejecutamos el comando:
+```
+python -m venv ambiente
+```
+- Esto crea toda la estructura de directorios necesario para nuestro proyecto y lo mantiene aislado de cualquier otro proyecto.
+3. **Activación de Entorno Virtual**
+- Mediante el terminal, nos ubicamos dentro del directorio del ambiente virtual. Podemos movernos con cd y cd..
+- Estando en el directorio de nuestro ambiente virtual, ingresaremos al sub-directorio Scripts.
+- Una vez dentro de este directorio, ejecutaremos el archivo Activate, mediante el siguiente comando:
+```
+.\Activate
+```
+- Si la ejecución del script está bloqueada por permisos de ejecución del terminal, usaremos el siguiente comando para autorizarlo:
+```
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPlicy RemoteSigned
+```
+- Despúes de este comando, deberíamos poder ejecutar la activación del ambiente.
+
+4. **Actualización PIP**
+- Al haber creado un nuevo proyecto, no tenemos la seguridad de tener PIP en la ultima versión, por lo que lo actualizaremos.
+- Mediante terminal, ejecutaremos el siguiente comando:
+```
+python.exe -m pip install --upgrade pip
+```
+5. **Instalación de Django**
+- Django depende de la última versión de pip, por lo que tuvimos que actualizarlo.
+- Mediante el terminal, nos ubicamos en el directorio principal del proyecto.
+- Ahora instalaremos el entorno de trabajo de Django, ejecutando el siguiente comando en el terminal:
+```
+pip install django
+```
+
