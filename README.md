@@ -40,4 +40,10 @@ python.exe -m pip install --upgrade pip
 ```
 pip install django
 ```
-
+6. **Creamos nuestro proyecto Django**
+- Creamos la estructura de directorios de Django.
+- Mediante terminal, nos ubicamos en la carpeta raiz de nuestro proyecto.
+- Estando en esta ubicacion, ejecutaremos el siguiente comando en el terminal:
+´´´
+django-admin startproject proyecto_django
+´´´
