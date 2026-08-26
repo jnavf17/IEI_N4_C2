@@ -45,5 +45,16 @@ pip install django
 - Mediante terminal, nos ubicamos en la carpeta raiz de nuestro proyecto.
 - Estando en esta ubicacion, ejecutaremos el siguiente comando en el terminal:
 ´´´
-django-admin startproject proyecto_django
+django-admin startproject proyecto_django .
 ´´´
+- proyecto_django debe ser reemplazado por el nombre que ud. le dara al "motor" django, 
+idealmente debe ser un nombre corto y descriptivo, porque lo vamos a llamar varias veces.
+- el punto al final de la instruccion, la indica que debe crear el directorio en la carpeta raiz de nuestro proyecto
+
+7. **Creacio de la aplicacion particular**
+- Hemos llegado al punto donde construiremos nuestra aplicacion, para lograrlo debemos ubicarnos mediante terminal en la carpeta raiz del proyecto(IEI_N4_C2).
+- Ejecutamos el siguiente comando mediante el terminal
+´´´
+django-admin startapp nombre_aplicacion
+´´´
+- nombre_aplicacion debe ser reemplazado por el nombre que ud. le dara a su aplicacion.
