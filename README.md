@@ -45,7 +45,7 @@ pip install django
 - Mediante terminal, nos ubicamos en la carpeta raiz de nuestro proyecto.
 - Estando en esta ubicacion, ejecutaremos el siguiente comando en el terminal:
 ´´´
-django-admin startproject proyecto_django .
+django-admin startproject django_core .
 ´´´
 - proyecto_django debe ser reemplazado por el nombre que ud. le dara al "motor" django, 
 idealmente debe ser un nombre corto y descriptivo, porque lo vamos a llamar varias veces.
