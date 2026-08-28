@@ -58,3 +58,9 @@ idealmente debe ser un nombre corto y descriptivo, porque lo vamos a llamar vari
 django-admin startapp nombre_aplicacion
 ´´´
 - nombre_aplicacion debe ser reemplazado por el nombre que ud. le dara a su aplicacion.
+
+** iniciando el servidor**
+- con todo instalado, ya podemos iniciar la aplicacion, para hacerlo, ejecutamos desde el terminal el comando:
+´´´
+python manage.py runserver
+´´´
