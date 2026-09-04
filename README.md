@@ -54,13 +54,16 @@ idealmente debe ser un nombre corto y descriptivo, porque lo vamos a llamar vari
 7. **Creacio de la aplicacion particular**
 - Hemos llegado al punto donde construiremos nuestra aplicacion, para lograrlo debemos ubicarnos mediante terminal en la carpeta raiz del proyecto(IEI_N4_C2).
 - Ejecutamos el siguiente comando mediante el terminal
+
 ´´´
 django-admin startapp nombre_aplicacion
 ´´´
+
 - nombre_aplicacion debe ser reemplazado por el nombre que ud. le dara a su aplicacion.
 
 ** iniciando el servidor**
 - con todo instalado, ya podemos iniciar la aplicacion, para hacerlo, ejecutamos desde el terminal el comando:
+
 ´´´
 python manage.py runserver
 ´´´
