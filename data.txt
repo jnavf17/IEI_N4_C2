@@ -1,0 +1,14 @@
+manejo de base de datos
+una base de datos en entornos profesionales debe controlarse con usuarios especificos con 
+permisos otorgados explicitamente. esto lo lograremos de la siguiente forma
+
+CREATE DATABASE aplicacion_fitnes;
+
+crear usuario local USUARIO con contraseña mypassword
+
+CREATE USER 'fitnes'@'localhost' IDENTIFIED BY 'fitnes1721';
+
+GRANT ALL PRIVILEGES ON aplicacion_fitnes.* TO 'fitnes'@'localhost';
+
+
+
