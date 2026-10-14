@@ -1,5 +1,15 @@
-from django.urls import path 
-from . import views
+from django.urls import path, include
+from rest_framework import routers
+from aplicacion_fitnes import views
 
-urlpatterns = [path('', views.inicio, name='inicio'),]
-                     
+enrutador = routers.DefaultRouter()
+
+
+enrutador.register(r'paises', views.PaisViewSet)
+enrutador.register(r'regiones', views.RegionViewSet)
+enrutador.register(r'provincias', views.ProvinciaViewSet)
+enrutador.register(r'comunas', views.ComunaViewSet)
+
+urlpatterns = [
+    path('', include(enrutador.urls))
+]
