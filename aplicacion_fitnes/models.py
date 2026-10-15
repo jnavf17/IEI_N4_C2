@@ -7,7 +7,6 @@ str_codigo = "Código"
 
 # Create your models here.
 class Pais(models.Model):
-<<<<<<< HEAD
     nombre = models.CharField("Pais", max_length=50, null=False)
     nacionalidad = models.CharField("Nacionalidad", max_length=30, null=False)
     iso_2 = models.CharField("ISO 2", max_length=2, null=False)
@@ -46,7 +45,6 @@ class Comuna(models.Model):
 
 
 class Usuario(models.Model):
-=======
     nombre = models.CharField("Pais",max_length=50,null=False)
     nacionalidad = models.CharField("Nacionalidad",max_length=30,null=False)
     iso_2 = models.CharField("ISO 2",max_length=2,null=False)
@@ -63,8 +61,6 @@ class Provincia(models.Model):
     updated_at = models.DateTimeField(fecha_actualizacion,auto_now=True)
 
 class Usuario(models.Model):
-
->>>>>>> e86fdaf68d467aea0af071282b7705335efeafc2
     nombre = models.CharField(max_length=100, null=False)
     email = models.CharField(max_length=100, null=False, unique=True)
     password = models.CharField(max_length=128, null=False)
@@ -72,7 +68,6 @@ class Usuario(models.Model):
     edad = models.IntegerField(null=True, blank=True)
     peso = models.FloatField(null=True, blank=True)
     activo = models.BooleanField(default=True)
-<<<<<<< HEAD
     created_at = models.DateTimeField(fecha_creacion, auto_now_add=True)
     updated_at = models.DateTimeField(fecha_actualizacion, auto_now=True)
 
@@ -87,7 +82,6 @@ class Entrenador(models.Model):
     anios_experiencia = models.IntegerField(null=True, blank=True, default=0)
     created_at = models.DateTimeField(fecha_creacion, auto_now_add=True)
     updated_at = models.DateTimeField(fecha_actualizacion, auto_now=True)
-=======
     created_at = models.DateTimeField(fecha_creacion,auto_now_add=True)
     updated_at = models.DateTimeField(fecha_actualizacion,auto_now=True)
     
@@ -101,7 +95,6 @@ class Entrenador(models.Model):
     created_at = models.DateTimeField(fecha_creacion,auto_now_add=True)
     updated_at = models.DateTimeField(fecha_actualizacion,auto_now=True)
     
->>>>>>> e86fdaf68d467aea0af071282b7705335efeafc2
 
 
 class Ejercicio(models.Model):
@@ -206,9 +199,7 @@ class MetodoPago(models.Model):
     ultimos_digitos = models.CharField(max_length=4, null=True, blank=True)
     predeterminado = models.BooleanField(default=False)
     activo = models.BooleanField(default=True)
-<<<<<<< HEAD
     fecha_registro = models.DateTimeField(auto_now_add=True)
-=======
     fecha_registro = models.DateTimeField(auto_now_add=True)
 
 class Region(models.Model):
@@ -224,4 +215,3 @@ class Comuna(models.Model):
     habilitado = models.BooleanField("Habilitado",default=True)
     created_at = models.DateTimeField(fecha_creacion,auto_now_add=True)
     updated_at = models.DateTimeField(fecha_actualizacion,auto_now=True)
->>>>>>> e86fdaf68d467aea0af071282b7705335efeafc2

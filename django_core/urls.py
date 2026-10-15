@@ -20,11 +20,6 @@ from aplicacion_fitnes import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-<<<<<<< HEAD
     path('', views.inicio),
     path('aplicacion_fitnes/', include('aplicacion_fitnes.urls'))
-=======
-    path('', views.inicio, name='inicio'),
-    path('aplicacion_fitnes/', include('aplicacion_fitnes.urls')),
->>>>>>> e86fdaf68d467aea0af071282b7705335efeafc2
 ]
