@@ -53,12 +53,7 @@ class Usuario(models.Model):
     created_at = models.DateTimeField(fecha_creacion,auto_now_add=True)
     updated_at = models.DateTimeField(fecha_actualizacion,auto_now=True)
 
-class Provincia(models.Model):
-    codigo = models.CharField("Codigo",max_length=10,null=False)
-    region = models.CharField("Region",max_length=50,null=False)
-    habilitado = models.BooleanField("Habilitado",default=True)
-    created_at = models.DateTimeField(fecha_creacion,auto_now_add=True)
-    updated_at = models.DateTimeField(fecha_actualizacion,auto_now=True)
+
 
 class Usuario(models.Model):
     nombre = models.CharField(max_length=100, null=False)
@@ -202,17 +197,3 @@ class MetodoPago(models.Model):
     fecha_registro = models.DateTimeField(auto_now_add=True)
     fecha_registro = models.DateTimeField(auto_now_add=True)
 
-class Region(models.Model):
-    codigo = models.CharField(str_codigo, max_length=10, default='')
-    nombre = models.CharField("Region",max_length=50,null=False)
-    pais = models.ForeignKey(Pais, on_delete=models.CASCADE, related_name='regiones')
-    habilitado = models.BooleanField("Habilitado",default=True)
-    created_at = models.DateTimeField(fecha_creacion,auto_now_add=True)
-    updated_at = models.DateTimeField(fecha_actualizacion,auto_now=True)
-
-class Comuna(models.Model):
-    nombre = models.CharField("Comuna",max_length=50,null=False)
-    region = models.ForeignKey(Region, on_delete=models.CASCADE, related_name='comunas')
-    habilitado = models.BooleanField("Habilitado",default=True)
-    created_at = models.DateTimeField(fecha_creacion,auto_now_add=True)
-    updated_at = models.DateTimeField(fecha_actualizacion,auto_now=True)

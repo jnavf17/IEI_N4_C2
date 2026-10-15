@@ -4,7 +4,11 @@
         "pk": 1,
         "fields": {
             "codigo": "01",
-            "region": "Tarapacá"
+            "nombre": "Tarapacá",
+            "pais": 43,
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -12,7 +16,11 @@
         "pk": 2,
         "fields": {
             "codigo": "02",
-            "region": "Antofagasta"
+            "nombre": "Antofagasta",
+            "pais": 43,
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -20,7 +28,11 @@
         "pk": 3,
         "fields": {
             "codigo": "03",
-            "region": "Atacama"
+            "nombre": "Atacama",
+            "pais": 43,
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -28,7 +40,11 @@
         "pk": 4,
         "fields": {
             "codigo": "04",
-            "region": "Coquimbo"
+            "nombre": "Coquimbo",
+            "pais": 43,
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -36,7 +52,11 @@
         "pk": 5,
         "fields": {
             "codigo": "05",
-            "region": "Valparaíso"
+            "nombre": "Valparaíso",
+            "pais": 43,
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -44,7 +64,11 @@
         "pk": 6,
         "fields": {
             "codigo": "06",
-            "region": "Libertador General Bernardo O'"
+            "nombre": "Libertador General Bernardo O'Higgins",
+            "pais": 43,
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -52,7 +76,11 @@
         "pk": 7,
         "fields": {
             "codigo": "07",
-            "region": "Maule"
+            "nombre": "Maule",
+            "pais": 43,
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -60,7 +88,11 @@
         "pk": 8,
         "fields": {
             "codigo": "08",
-            "region": "Biobío"
+            "nombre": "Biobío",
+            "pais": 43,
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -68,7 +100,11 @@
         "pk": 9,
         "fields": {
             "codigo": "09",
-            "region": "La Araucanía"
+            "nombre": "La Araucanía",
+            "pais": 43,
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -76,7 +112,11 @@
         "pk": 10,
         "fields": {
             "codigo": "10",
-            "region": "Los Lagos"
+            "nombre": "Los Lagos",
+            "pais": 43,
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -84,7 +124,11 @@
         "pk": 11,
         "fields": {
             "codigo": "11",
-            "region": "Aysén del General Carlos Ibáñe"
+            "nombre": "Aysén del General Carlos Ibáñez del Campo",
+            "pais": 43,
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -92,7 +136,11 @@
         "pk": 12,
         "fields": {
             "codigo": "12",
-            "region": "Magallanes y de la Antártica C"
+            "nombre": "Magallanes y de la Antártica Chilena",
+            "pais": 43,
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -100,7 +148,11 @@
         "pk": 13,
         "fields": {
             "codigo": "13",
-            "region": "Metropolitana de Santiago"
+            "nombre": "Metropolitana de Santiago",
+            "pais": 43,
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -108,7 +160,11 @@
         "pk": 14,
         "fields": {
             "codigo": "14",
-            "region": "Los Ríos"
+            "nombre": "Los Ríos",
+            "pais": 43,
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -116,7 +172,11 @@
         "pk": 15,
         "fields": {
             "codigo": "15",
-            "region": "Arica y Parinacota"
+            "nombre": "Arica y Parinacota",
+            "pais": 43,
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -124,7 +184,11 @@
         "pk": 16,
         "fields": {
             "codigo": "16",
-            "region": "Ñuble"
+            "nombre": "Ñuble",
+            "pais": 43,
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     }
 ]

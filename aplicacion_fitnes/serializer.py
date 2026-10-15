@@ -22,14 +22,14 @@ class PaisSerializer(serializers.ModelSerializer):
 class RegionSerializer(serializers.ModelSerializer):
     class Meta:
         model = Region
-        fields = ('codigo', 'region', 'pais')
+        fields = ('__all__')
 
 class ProvinciaSerializer(serializers.ModelSerializer):
     class Meta:
         model = Provincia
-        fields = ('codigo', 'provincia', 'region')
+        fields = ('__all__')
 
 class ComunaSerializer(serializers.ModelSerializer):
     class Meta:
         model = Comuna
-        fields = ('codigo', 'comuna', 'provincia')
+        fields = ('__all__')

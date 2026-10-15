@@ -6,7 +6,10 @@
             "nombre": "Aruba",
             "nacionalidad": "",
             "iso_2": "AW",
-            "iso_3": "ABW"
+            "iso_3": "ABW",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -16,7 +19,10 @@
             "nombre": "Afghanistan",
             "nacionalidad": "",
             "iso_2": "AF",
-            "iso_3": "AFG"
+            "iso_3": "AFG",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -26,7 +32,10 @@
             "nombre": "Angola",
             "nacionalidad": "",
             "iso_2": "AO",
-            "iso_3": "AGO"
+            "iso_3": "AGO",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -36,7 +45,10 @@
             "nombre": "Anguilla",
             "nacionalidad": "",
             "iso_2": "AI",
-            "iso_3": "AIA"
+            "iso_3": "AIA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -46,7 +58,10 @@
             "nombre": "Åland Islands",
             "nacionalidad": "",
             "iso_2": "AX",
-            "iso_3": "ALA"
+            "iso_3": "ALA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -56,7 +71,10 @@
             "nombre": "Albania",
             "nacionalidad": "",
             "iso_2": "AL",
-            "iso_3": "ALB"
+            "iso_3": "ALB",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -66,7 +84,10 @@
             "nombre": "Andorra",
             "nacionalidad": "",
             "iso_2": "AD",
-            "iso_3": "AND"
+            "iso_3": "AND",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -76,7 +97,10 @@
             "nombre": "United Arab Emirates",
             "nacionalidad": "",
             "iso_2": "AE",
-            "iso_3": "ARE"
+            "iso_3": "ARE",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -86,7 +110,10 @@
             "nombre": "Argentina",
             "nacionalidad": "",
             "iso_2": "AR",
-            "iso_3": "ARG"
+            "iso_3": "ARG",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -96,7 +123,10 @@
             "nombre": "Armenia",
             "nacionalidad": "",
             "iso_2": "AM",
-            "iso_3": "ARM"
+            "iso_3": "ARM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -106,7 +136,10 @@
             "nombre": "American Samoa",
             "nacionalidad": "",
             "iso_2": "AS",
-            "iso_3": "ASM"
+            "iso_3": "ASM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -116,7 +149,10 @@
             "nombre": "Antarctica",
             "nacionalidad": "",
             "iso_2": "AQ",
-            "iso_3": "ATA"
+            "iso_3": "ATA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -126,7 +162,10 @@
             "nombre": "French Southern Territories",
             "nacionalidad": "",
             "iso_2": "TF",
-            "iso_3": "ATF"
+            "iso_3": "ATF",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -136,7 +175,10 @@
             "nombre": "Antigua and Barbuda",
             "nacionalidad": "",
             "iso_2": "AG",
-            "iso_3": "ATG"
+            "iso_3": "ATG",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -146,7 +188,10 @@
             "nombre": "Australia",
             "nacionalidad": "",
             "iso_2": "AU",
-            "iso_3": "AUS"
+            "iso_3": "AUS",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -156,7 +201,10 @@
             "nombre": "Austria",
             "nacionalidad": "",
             "iso_2": "AT",
-            "iso_3": "AUT"
+            "iso_3": "AUT",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -166,7 +214,10 @@
             "nombre": "Azerbaijan",
             "nacionalidad": "",
             "iso_2": "AZ",
-            "iso_3": "AZE"
+            "iso_3": "AZE",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -176,7 +227,10 @@
             "nombre": "Burundi",
             "nacionalidad": "",
             "iso_2": "BI",
-            "iso_3": "BDI"
+            "iso_3": "BDI",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -186,7 +240,10 @@
             "nombre": "Belgium",
             "nacionalidad": "",
             "iso_2": "BE",
-            "iso_3": "BEL"
+            "iso_3": "BEL",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -196,7 +253,10 @@
             "nombre": "Benin",
             "nacionalidad": "",
             "iso_2": "BJ",
-            "iso_3": "BEN"
+            "iso_3": "BEN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -206,7 +266,10 @@
             "nombre": "Bonaire, Sint Eustatius and Saba",
             "nacionalidad": "",
             "iso_2": "BQ",
-            "iso_3": "BES"
+            "iso_3": "BES",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -216,7 +279,10 @@
             "nombre": "Burkina Faso",
             "nacionalidad": "",
             "iso_2": "BF",
-            "iso_3": "BFA"
+            "iso_3": "BFA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -226,7 +292,10 @@
             "nombre": "Bangladesh",
             "nacionalidad": "",
             "iso_2": "BD",
-            "iso_3": "BGD"
+            "iso_3": "BGD",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -236,7 +305,10 @@
             "nombre": "Bulgaria",
             "nacionalidad": "",
             "iso_2": "BG",
-            "iso_3": "BGR"
+            "iso_3": "BGR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -246,7 +318,10 @@
             "nombre": "Bahrain",
             "nacionalidad": "",
             "iso_2": "BH",
-            "iso_3": "BHR"
+            "iso_3": "BHR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -256,7 +331,10 @@
             "nombre": "Bahamas",
             "nacionalidad": "",
             "iso_2": "BS",
-            "iso_3": "BHS"
+            "iso_3": "BHS",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -266,7 +344,10 @@
             "nombre": "Bosnia and Herzegovina",
             "nacionalidad": "",
             "iso_2": "BA",
-            "iso_3": "BIH"
+            "iso_3": "BIH",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -276,7 +357,10 @@
             "nombre": "Saint Barthélemy",
             "nacionalidad": "",
             "iso_2": "BL",
-            "iso_3": "BLM"
+            "iso_3": "BLM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -286,7 +370,10 @@
             "nombre": "Belarus",
             "nacionalidad": "",
             "iso_2": "BY",
-            "iso_3": "BLR"
+            "iso_3": "BLR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -296,7 +383,10 @@
             "nombre": "Belize",
             "nacionalidad": "",
             "iso_2": "BZ",
-            "iso_3": "BLZ"
+            "iso_3": "BLZ",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -306,7 +396,10 @@
             "nombre": "Bermuda",
             "nacionalidad": "",
             "iso_2": "BM",
-            "iso_3": "BMU"
+            "iso_3": "BMU",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -316,7 +409,10 @@
             "nombre": "Bolivia, Plurinational State of",
             "nacionalidad": "",
             "iso_2": "BO",
-            "iso_3": "BOL"
+            "iso_3": "BOL",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -326,7 +422,10 @@
             "nombre": "Brazil",
             "nacionalidad": "",
             "iso_2": "BR",
-            "iso_3": "BRA"
+            "iso_3": "BRA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -336,7 +435,10 @@
             "nombre": "Barbados",
             "nacionalidad": "",
             "iso_2": "BB",
-            "iso_3": "BRB"
+            "iso_3": "BRB",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -346,7 +448,10 @@
             "nombre": "Brunei Darussalam",
             "nacionalidad": "",
             "iso_2": "BN",
-            "iso_3": "BRN"
+            "iso_3": "BRN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -356,7 +461,10 @@
             "nombre": "Bhutan",
             "nacionalidad": "",
             "iso_2": "BT",
-            "iso_3": "BTN"
+            "iso_3": "BTN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -366,7 +474,10 @@
             "nombre": "Bouvet Island",
             "nacionalidad": "",
             "iso_2": "BV",
-            "iso_3": "BVT"
+            "iso_3": "BVT",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -376,7 +487,10 @@
             "nombre": "Botswana",
             "nacionalidad": "",
             "iso_2": "BW",
-            "iso_3": "BWA"
+            "iso_3": "BWA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -386,7 +500,10 @@
             "nombre": "Central African Republic",
             "nacionalidad": "",
             "iso_2": "CF",
-            "iso_3": "CAF"
+            "iso_3": "CAF",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -396,7 +513,10 @@
             "nombre": "Canada",
             "nacionalidad": "",
             "iso_2": "CA",
-            "iso_3": "CAN"
+            "iso_3": "CAN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -406,7 +526,10 @@
             "nombre": "Cocos (Keeling) Islands",
             "nacionalidad": "",
             "iso_2": "CC",
-            "iso_3": "CCK"
+            "iso_3": "CCK",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -416,7 +539,10 @@
             "nombre": "Switzerland",
             "nacionalidad": "",
             "iso_2": "CH",
-            "iso_3": "CHE"
+            "iso_3": "CHE",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -426,7 +552,10 @@
             "nombre": "Chile",
             "nacionalidad": "",
             "iso_2": "CL",
-            "iso_3": "CHL"
+            "iso_3": "CHL",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -436,7 +565,10 @@
             "nombre": "China",
             "nacionalidad": "",
             "iso_2": "CN",
-            "iso_3": "CHN"
+            "iso_3": "CHN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -446,7 +578,10 @@
             "nombre": "Côte d'Ivoire",
             "nacionalidad": "",
             "iso_2": "CI",
-            "iso_3": "CIV"
+            "iso_3": "CIV",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -456,7 +591,10 @@
             "nombre": "Cameroon",
             "nacionalidad": "",
             "iso_2": "CM",
-            "iso_3": "CMR"
+            "iso_3": "CMR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -466,7 +604,10 @@
             "nombre": "Congo, The Democratic Republic of the",
             "nacionalidad": "",
             "iso_2": "CD",
-            "iso_3": "COD"
+            "iso_3": "COD",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -476,7 +617,10 @@
             "nombre": "Congo",
             "nacionalidad": "",
             "iso_2": "CG",
-            "iso_3": "COG"
+            "iso_3": "COG",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -486,7 +630,10 @@
             "nombre": "Cook Islands",
             "nacionalidad": "",
             "iso_2": "CK",
-            "iso_3": "COK"
+            "iso_3": "COK",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -496,7 +643,10 @@
             "nombre": "Colombia",
             "nacionalidad": "",
             "iso_2": "CO",
-            "iso_3": "COL"
+            "iso_3": "COL",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -506,7 +656,10 @@
             "nombre": "Comoros",
             "nacionalidad": "",
             "iso_2": "KM",
-            "iso_3": "COM"
+            "iso_3": "COM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -516,7 +669,10 @@
             "nombre": "Cabo Verde",
             "nacionalidad": "",
             "iso_2": "CV",
-            "iso_3": "CPV"
+            "iso_3": "CPV",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -526,7 +682,10 @@
             "nombre": "Costa Rica",
             "nacionalidad": "",
             "iso_2": "CR",
-            "iso_3": "CRI"
+            "iso_3": "CRI",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -536,7 +695,10 @@
             "nombre": "Cuba",
             "nacionalidad": "",
             "iso_2": "CU",
-            "iso_3": "CUB"
+            "iso_3": "CUB",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -546,7 +708,10 @@
             "nombre": "Curaçao",
             "nacionalidad": "",
             "iso_2": "CW",
-            "iso_3": "CUW"
+            "iso_3": "CUW",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -556,7 +721,10 @@
             "nombre": "Christmas Island",
             "nacionalidad": "",
             "iso_2": "CX",
-            "iso_3": "CXR"
+            "iso_3": "CXR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -566,7 +734,10 @@
             "nombre": "Cayman Islands",
             "nacionalidad": "",
             "iso_2": "KY",
-            "iso_3": "CYM"
+            "iso_3": "CYM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -576,7 +747,10 @@
             "nombre": "Cyprus",
             "nacionalidad": "",
             "iso_2": "CY",
-            "iso_3": "CYP"
+            "iso_3": "CYP",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -586,7 +760,10 @@
             "nombre": "Czechia",
             "nacionalidad": "",
             "iso_2": "CZ",
-            "iso_3": "CZE"
+            "iso_3": "CZE",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -596,7 +773,10 @@
             "nombre": "Germany",
             "nacionalidad": "",
             "iso_2": "DE",
-            "iso_3": "DEU"
+            "iso_3": "DEU",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -606,7 +786,10 @@
             "nombre": "Djibouti",
             "nacionalidad": "",
             "iso_2": "DJ",
-            "iso_3": "DJI"
+            "iso_3": "DJI",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -616,7 +799,10 @@
             "nombre": "Dominica",
             "nacionalidad": "",
             "iso_2": "DM",
-            "iso_3": "DMA"
+            "iso_3": "DMA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -626,7 +812,10 @@
             "nombre": "Denmark",
             "nacionalidad": "",
             "iso_2": "DK",
-            "iso_3": "DNK"
+            "iso_3": "DNK",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -636,7 +825,10 @@
             "nombre": "Dominican Republic",
             "nacionalidad": "",
             "iso_2": "DO",
-            "iso_3": "DOM"
+            "iso_3": "DOM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -646,7 +838,10 @@
             "nombre": "Algeria",
             "nacionalidad": "",
             "iso_2": "DZ",
-            "iso_3": "DZA"
+            "iso_3": "DZA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -656,7 +851,10 @@
             "nombre": "Ecuador",
             "nacionalidad": "",
             "iso_2": "EC",
-            "iso_3": "ECU"
+            "iso_3": "ECU",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -666,7 +864,10 @@
             "nombre": "Egypt",
             "nacionalidad": "",
             "iso_2": "EG",
-            "iso_3": "EGY"
+            "iso_3": "EGY",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -676,7 +877,10 @@
             "nombre": "Eritrea",
             "nacionalidad": "",
             "iso_2": "ER",
-            "iso_3": "ERI"
+            "iso_3": "ERI",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -686,7 +890,10 @@
             "nombre": "Western Sahara",
             "nacionalidad": "",
             "iso_2": "EH",
-            "iso_3": "ESH"
+            "iso_3": "ESH",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -696,7 +903,10 @@
             "nombre": "Spain",
             "nacionalidad": "",
             "iso_2": "ES",
-            "iso_3": "ESP"
+            "iso_3": "ESP",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -706,7 +916,10 @@
             "nombre": "Estonia",
             "nacionalidad": "",
             "iso_2": "EE",
-            "iso_3": "EST"
+            "iso_3": "EST",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -716,7 +929,10 @@
             "nombre": "Ethiopia",
             "nacionalidad": "",
             "iso_2": "ET",
-            "iso_3": "ETH"
+            "iso_3": "ETH",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -726,7 +942,10 @@
             "nombre": "Finland",
             "nacionalidad": "",
             "iso_2": "FI",
-            "iso_3": "FIN"
+            "iso_3": "FIN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -736,7 +955,10 @@
             "nombre": "Fiji",
             "nacionalidad": "",
             "iso_2": "FJ",
-            "iso_3": "FJI"
+            "iso_3": "FJI",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -746,7 +968,10 @@
             "nombre": "Falkland Islands (Malvinas)",
             "nacionalidad": "",
             "iso_2": "FK",
-            "iso_3": "FLK"
+            "iso_3": "FLK",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -756,7 +981,10 @@
             "nombre": "France",
             "nacionalidad": "",
             "iso_2": "FR",
-            "iso_3": "FRA"
+            "iso_3": "FRA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -766,7 +994,10 @@
             "nombre": "Faroe Islands",
             "nacionalidad": "",
             "iso_2": "FO",
-            "iso_3": "FRO"
+            "iso_3": "FRO",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -776,7 +1007,10 @@
             "nombre": "Micronesia, Federated States of",
             "nacionalidad": "",
             "iso_2": "FM",
-            "iso_3": "FSM"
+            "iso_3": "FSM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -786,7 +1020,10 @@
             "nombre": "Gabon",
             "nacionalidad": "",
             "iso_2": "GA",
-            "iso_3": "GAB"
+            "iso_3": "GAB",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -796,7 +1033,10 @@
             "nombre": "United Kingdom",
             "nacionalidad": "",
             "iso_2": "GB",
-            "iso_3": "GBR"
+            "iso_3": "GBR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -806,7 +1046,10 @@
             "nombre": "Georgia",
             "nacionalidad": "",
             "iso_2": "GE",
-            "iso_3": "GEO"
+            "iso_3": "GEO",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -816,7 +1059,10 @@
             "nombre": "Guernsey",
             "nacionalidad": "",
             "iso_2": "GG",
-            "iso_3": "GGY"
+            "iso_3": "GGY",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -826,7 +1072,10 @@
             "nombre": "Ghana",
             "nacionalidad": "",
             "iso_2": "GH",
-            "iso_3": "GHA"
+            "iso_3": "GHA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -836,7 +1085,10 @@
             "nombre": "Gibraltar",
             "nacionalidad": "",
             "iso_2": "GI",
-            "iso_3": "GIB"
+            "iso_3": "GIB",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -846,7 +1098,10 @@
             "nombre": "Guinea",
             "nacionalidad": "",
             "iso_2": "GN",
-            "iso_3": "GIN"
+            "iso_3": "GIN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -856,7 +1111,10 @@
             "nombre": "Guadeloupe",
             "nacionalidad": "",
             "iso_2": "GP",
-            "iso_3": "GLP"
+            "iso_3": "GLP",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -866,7 +1124,10 @@
             "nombre": "Gambia",
             "nacionalidad": "",
             "iso_2": "GM",
-            "iso_3": "GMB"
+            "iso_3": "GMB",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -876,7 +1137,10 @@
             "nombre": "Guinea-Bissau",
             "nacionalidad": "",
             "iso_2": "GW",
-            "iso_3": "GNB"
+            "iso_3": "GNB",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -886,7 +1150,10 @@
             "nombre": "Equatorial Guinea",
             "nacionalidad": "",
             "iso_2": "GQ",
-            "iso_3": "GNQ"
+            "iso_3": "GNQ",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -896,7 +1163,10 @@
             "nombre": "Greece",
             "nacionalidad": "",
             "iso_2": "GR",
-            "iso_3": "GRC"
+            "iso_3": "GRC",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -906,7 +1176,10 @@
             "nombre": "Grenada",
             "nacionalidad": "",
             "iso_2": "GD",
-            "iso_3": "GRD"
+            "iso_3": "GRD",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -916,7 +1189,10 @@
             "nombre": "Greenland",
             "nacionalidad": "",
             "iso_2": "GL",
-            "iso_3": "GRL"
+            "iso_3": "GRL",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -926,7 +1202,10 @@
             "nombre": "Guatemala",
             "nacionalidad": "",
             "iso_2": "GT",
-            "iso_3": "GTM"
+            "iso_3": "GTM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -936,7 +1215,10 @@
             "nombre": "French Guiana",
             "nacionalidad": "",
             "iso_2": "GF",
-            "iso_3": "GUF"
+            "iso_3": "GUF",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -946,7 +1228,10 @@
             "nombre": "Guam",
             "nacionalidad": "",
             "iso_2": "GU",
-            "iso_3": "GUM"
+            "iso_3": "GUM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -956,7 +1241,10 @@
             "nombre": "Guyana",
             "nacionalidad": "",
             "iso_2": "GY",
-            "iso_3": "GUY"
+            "iso_3": "GUY",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -966,7 +1254,10 @@
             "nombre": "Hong Kong",
             "nacionalidad": "",
             "iso_2": "HK",
-            "iso_3": "HKG"
+            "iso_3": "HKG",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -976,7 +1267,10 @@
             "nombre": "Heard Island and McDonald Islands",
             "nacionalidad": "",
             "iso_2": "HM",
-            "iso_3": "HMD"
+            "iso_3": "HMD",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -986,7 +1280,10 @@
             "nombre": "Honduras",
             "nacionalidad": "",
             "iso_2": "HN",
-            "iso_3": "HND"
+            "iso_3": "HND",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -996,7 +1293,10 @@
             "nombre": "Croatia",
             "nacionalidad": "",
             "iso_2": "HR",
-            "iso_3": "HRV"
+            "iso_3": "HRV",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1006,7 +1306,10 @@
             "nombre": "Haiti",
             "nacionalidad": "",
             "iso_2": "HT",
-            "iso_3": "HTI"
+            "iso_3": "HTI",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1016,7 +1319,10 @@
             "nombre": "Hungary",
             "nacionalidad": "",
             "iso_2": "HU",
-            "iso_3": "HUN"
+            "iso_3": "HUN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1026,7 +1332,10 @@
             "nombre": "Indonesia",
             "nacionalidad": "",
             "iso_2": "ID",
-            "iso_3": "IDN"
+            "iso_3": "IDN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1036,7 +1345,10 @@
             "nombre": "Isle of Man",
             "nacionalidad": "",
             "iso_2": "IM",
-            "iso_3": "IMN"
+            "iso_3": "IMN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1046,7 +1358,10 @@
             "nombre": "India",
             "nacionalidad": "",
             "iso_2": "IN",
-            "iso_3": "IND"
+            "iso_3": "IND",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1056,7 +1371,10 @@
             "nombre": "British Indian Ocean Territory",
             "nacionalidad": "",
             "iso_2": "IO",
-            "iso_3": "IOT"
+            "iso_3": "IOT",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1066,7 +1384,10 @@
             "nombre": "Ireland",
             "nacionalidad": "",
             "iso_2": "IE",
-            "iso_3": "IRL"
+            "iso_3": "IRL",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1076,7 +1397,10 @@
             "nombre": "Iran, Islamic Republic of",
             "nacionalidad": "",
             "iso_2": "IR",
-            "iso_3": "IRN"
+            "iso_3": "IRN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1086,7 +1410,10 @@
             "nombre": "Iraq",
             "nacionalidad": "",
             "iso_2": "IQ",
-            "iso_3": "IRQ"
+            "iso_3": "IRQ",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1096,7 +1423,10 @@
             "nombre": "Iceland",
             "nacionalidad": "",
             "iso_2": "IS",
-            "iso_3": "ISL"
+            "iso_3": "ISL",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1106,7 +1436,10 @@
             "nombre": "Israel",
             "nacionalidad": "",
             "iso_2": "IL",
-            "iso_3": "ISR"
+            "iso_3": "ISR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1116,7 +1449,10 @@
             "nombre": "Italy",
             "nacionalidad": "",
             "iso_2": "IT",
-            "iso_3": "ITA"
+            "iso_3": "ITA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1126,7 +1462,10 @@
             "nombre": "Jamaica",
             "nacionalidad": "",
             "iso_2": "JM",
-            "iso_3": "JAM"
+            "iso_3": "JAM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1136,7 +1475,10 @@
             "nombre": "Jersey",
             "nacionalidad": "",
             "iso_2": "JE",
-            "iso_3": "JEY"
+            "iso_3": "JEY",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1146,7 +1488,10 @@
             "nombre": "Jordan",
             "nacionalidad": "",
             "iso_2": "JO",
-            "iso_3": "JOR"
+            "iso_3": "JOR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1156,7 +1501,10 @@
             "nombre": "Japan",
             "nacionalidad": "",
             "iso_2": "JP",
-            "iso_3": "JPN"
+            "iso_3": "JPN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1166,7 +1514,10 @@
             "nombre": "Kazakhstan",
             "nacionalidad": "",
             "iso_2": "KZ",
-            "iso_3": "KAZ"
+            "iso_3": "KAZ",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1176,7 +1527,10 @@
             "nombre": "Kenya",
             "nacionalidad": "",
             "iso_2": "KE",
-            "iso_3": "KEN"
+            "iso_3": "KEN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1186,7 +1540,10 @@
             "nombre": "Kyrgyzstan",
             "nacionalidad": "",
             "iso_2": "KG",
-            "iso_3": "KGZ"
+            "iso_3": "KGZ",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1196,7 +1553,10 @@
             "nombre": "Cambodia",
             "nacionalidad": "",
             "iso_2": "KH",
-            "iso_3": "KHM"
+            "iso_3": "KHM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1206,7 +1566,10 @@
             "nombre": "Kiribati",
             "nacionalidad": "",
             "iso_2": "KI",
-            "iso_3": "KIR"
+            "iso_3": "KIR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1216,7 +1579,10 @@
             "nombre": "Saint Kitts and Nevis",
             "nacionalidad": "",
             "iso_2": "KN",
-            "iso_3": "KNA"
+            "iso_3": "KNA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1226,7 +1592,10 @@
             "nombre": "Korea, Republic of",
             "nacionalidad": "",
             "iso_2": "KR",
-            "iso_3": "KOR"
+            "iso_3": "KOR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1236,7 +1605,10 @@
             "nombre": "Kuwait",
             "nacionalidad": "",
             "iso_2": "KW",
-            "iso_3": "KWT"
+            "iso_3": "KWT",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1246,7 +1618,10 @@
             "nombre": "Lao People's Democratic Republic",
             "nacionalidad": "",
             "iso_2": "LA",
-            "iso_3": "LAO"
+            "iso_3": "LAO",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1256,7 +1631,10 @@
             "nombre": "Lebanon",
             "nacionalidad": "",
             "iso_2": "LB",
-            "iso_3": "LBN"
+            "iso_3": "LBN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1266,7 +1644,10 @@
             "nombre": "Liberia",
             "nacionalidad": "",
             "iso_2": "LR",
-            "iso_3": "LBR"
+            "iso_3": "LBR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1276,7 +1657,10 @@
             "nombre": "Libya",
             "nacionalidad": "",
             "iso_2": "LY",
-            "iso_3": "LBY"
+            "iso_3": "LBY",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1286,7 +1670,10 @@
             "nombre": "Saint Lucia",
             "nacionalidad": "",
             "iso_2": "LC",
-            "iso_3": "LCA"
+            "iso_3": "LCA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1296,7 +1683,10 @@
             "nombre": "Liechtenstein",
             "nacionalidad": "",
             "iso_2": "LI",
-            "iso_3": "LIE"
+            "iso_3": "LIE",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1306,7 +1696,10 @@
             "nombre": "Sri Lanka",
             "nacionalidad": "",
             "iso_2": "LK",
-            "iso_3": "LKA"
+            "iso_3": "LKA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1316,7 +1709,10 @@
             "nombre": "Lesotho",
             "nacionalidad": "",
             "iso_2": "LS",
-            "iso_3": "LSO"
+            "iso_3": "LSO",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1326,7 +1722,10 @@
             "nombre": "Lithuania",
             "nacionalidad": "",
             "iso_2": "LT",
-            "iso_3": "LTU"
+            "iso_3": "LTU",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1336,7 +1735,10 @@
             "nombre": "Luxembourg",
             "nacionalidad": "",
             "iso_2": "LU",
-            "iso_3": "LUX"
+            "iso_3": "LUX",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1346,7 +1748,10 @@
             "nombre": "Latvia",
             "nacionalidad": "",
             "iso_2": "LV",
-            "iso_3": "LVA"
+            "iso_3": "LVA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1356,7 +1761,10 @@
             "nombre": "Macao",
             "nacionalidad": "",
             "iso_2": "MO",
-            "iso_3": "MAC"
+            "iso_3": "MAC",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1366,7 +1774,10 @@
             "nombre": "Saint Martin (French part)",
             "nacionalidad": "",
             "iso_2": "MF",
-            "iso_3": "MAF"
+            "iso_3": "MAF",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1376,7 +1787,10 @@
             "nombre": "Morocco",
             "nacionalidad": "",
             "iso_2": "MA",
-            "iso_3": "MAR"
+            "iso_3": "MAR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1386,7 +1800,10 @@
             "nombre": "Monaco",
             "nacionalidad": "",
             "iso_2": "MC",
-            "iso_3": "MCO"
+            "iso_3": "MCO",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1396,7 +1813,10 @@
             "nombre": "Moldova, Republic of",
             "nacionalidad": "",
             "iso_2": "MD",
-            "iso_3": "MDA"
+            "iso_3": "MDA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1406,7 +1826,10 @@
             "nombre": "Madagascar",
             "nacionalidad": "",
             "iso_2": "MG",
-            "iso_3": "MDG"
+            "iso_3": "MDG",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1416,7 +1839,10 @@
             "nombre": "Maldives",
             "nacionalidad": "",
             "iso_2": "MV",
-            "iso_3": "MDV"
+            "iso_3": "MDV",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1426,7 +1852,10 @@
             "nombre": "Mexico",
             "nacionalidad": "",
             "iso_2": "MX",
-            "iso_3": "MEX"
+            "iso_3": "MEX",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1436,7 +1865,10 @@
             "nombre": "Marshall Islands",
             "nacionalidad": "",
             "iso_2": "MH",
-            "iso_3": "MHL"
+            "iso_3": "MHL",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1446,7 +1878,10 @@
             "nombre": "North Macedonia",
             "nacionalidad": "",
             "iso_2": "MK",
-            "iso_3": "MKD"
+            "iso_3": "MKD",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1456,7 +1891,10 @@
             "nombre": "Mali",
             "nacionalidad": "",
             "iso_2": "ML",
-            "iso_3": "MLI"
+            "iso_3": "MLI",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1466,7 +1904,10 @@
             "nombre": "Malta",
             "nacionalidad": "",
             "iso_2": "MT",
-            "iso_3": "MLT"
+            "iso_3": "MLT",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1476,7 +1917,10 @@
             "nombre": "Myanmar",
             "nacionalidad": "",
             "iso_2": "MM",
-            "iso_3": "MMR"
+            "iso_3": "MMR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1486,7 +1930,10 @@
             "nombre": "Montenegro",
             "nacionalidad": "",
             "iso_2": "ME",
-            "iso_3": "MNE"
+            "iso_3": "MNE",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1496,7 +1943,10 @@
             "nombre": "Mongolia",
             "nacionalidad": "",
             "iso_2": "MN",
-            "iso_3": "MNG"
+            "iso_3": "MNG",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1506,7 +1956,10 @@
             "nombre": "Northern Mariana Islands",
             "nacionalidad": "",
             "iso_2": "MP",
-            "iso_3": "MNP"
+            "iso_3": "MNP",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1516,7 +1969,10 @@
             "nombre": "Mozambique",
             "nacionalidad": "",
             "iso_2": "MZ",
-            "iso_3": "MOZ"
+            "iso_3": "MOZ",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1526,7 +1982,10 @@
             "nombre": "Mauritania",
             "nacionalidad": "",
             "iso_2": "MR",
-            "iso_3": "MRT"
+            "iso_3": "MRT",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1536,7 +1995,10 @@
             "nombre": "Montserrat",
             "nacionalidad": "",
             "iso_2": "MS",
-            "iso_3": "MSR"
+            "iso_3": "MSR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1546,7 +2008,10 @@
             "nombre": "Martinique",
             "nacionalidad": "",
             "iso_2": "MQ",
-            "iso_3": "MTQ"
+            "iso_3": "MTQ",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1556,7 +2021,10 @@
             "nombre": "Mauritius",
             "nacionalidad": "",
             "iso_2": "MU",
-            "iso_3": "MUS"
+            "iso_3": "MUS",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1566,7 +2034,10 @@
             "nombre": "Malawi",
             "nacionalidad": "",
             "iso_2": "MW",
-            "iso_3": "MWI"
+            "iso_3": "MWI",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1576,7 +2047,10 @@
             "nombre": "Malaysia",
             "nacionalidad": "",
             "iso_2": "MY",
-            "iso_3": "MYS"
+            "iso_3": "MYS",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1586,7 +2060,10 @@
             "nombre": "Mayotte",
             "nacionalidad": "",
             "iso_2": "YT",
-            "iso_3": "MYT"
+            "iso_3": "MYT",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1596,7 +2073,10 @@
             "nombre": "Namibia",
             "nacionalidad": "",
             "iso_2": "NA",
-            "iso_3": "NAM"
+            "iso_3": "NAM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1606,7 +2086,10 @@
             "nombre": "New Caledonia",
             "nacionalidad": "",
             "iso_2": "NC",
-            "iso_3": "NCL"
+            "iso_3": "NCL",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1616,7 +2099,10 @@
             "nombre": "Niger",
             "nacionalidad": "",
             "iso_2": "NE",
-            "iso_3": "NER"
+            "iso_3": "NER",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1626,7 +2112,10 @@
             "nombre": "Norfolk Island",
             "nacionalidad": "",
             "iso_2": "NF",
-            "iso_3": "NFK"
+            "iso_3": "NFK",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1636,7 +2125,10 @@
             "nombre": "Nigeria",
             "nacionalidad": "",
             "iso_2": "NG",
-            "iso_3": "NGA"
+            "iso_3": "NGA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1646,7 +2138,10 @@
             "nombre": "Nicaragua",
             "nacionalidad": "",
             "iso_2": "NI",
-            "iso_3": "NIC"
+            "iso_3": "NIC",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1656,7 +2151,10 @@
             "nombre": "Niue",
             "nacionalidad": "",
             "iso_2": "NU",
-            "iso_3": "NIU"
+            "iso_3": "NIU",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1666,7 +2164,10 @@
             "nombre": "Netherlands",
             "nacionalidad": "",
             "iso_2": "NL",
-            "iso_3": "NLD"
+            "iso_3": "NLD",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1676,7 +2177,10 @@
             "nombre": "Norway",
             "nacionalidad": "",
             "iso_2": "NO",
-            "iso_3": "NOR"
+            "iso_3": "NOR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1686,7 +2190,10 @@
             "nombre": "Nepal",
             "nacionalidad": "",
             "iso_2": "NP",
-            "iso_3": "NPL"
+            "iso_3": "NPL",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1696,7 +2203,10 @@
             "nombre": "Nauru",
             "nacionalidad": "",
             "iso_2": "NR",
-            "iso_3": "NRU"
+            "iso_3": "NRU",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1706,7 +2216,10 @@
             "nombre": "New Zealand",
             "nacionalidad": "",
             "iso_2": "NZ",
-            "iso_3": "NZL"
+            "iso_3": "NZL",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1716,7 +2229,10 @@
             "nombre": "Oman",
             "nacionalidad": "",
             "iso_2": "OM",
-            "iso_3": "OMN"
+            "iso_3": "OMN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1726,7 +2242,10 @@
             "nombre": "Pakistan",
             "nacionalidad": "",
             "iso_2": "PK",
-            "iso_3": "PAK"
+            "iso_3": "PAK",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1736,7 +2255,10 @@
             "nombre": "Panama",
             "nacionalidad": "",
             "iso_2": "PA",
-            "iso_3": "PAN"
+            "iso_3": "PAN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1746,7 +2268,10 @@
             "nombre": "Pitcairn",
             "nacionalidad": "",
             "iso_2": "PN",
-            "iso_3": "PCN"
+            "iso_3": "PCN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1756,7 +2281,10 @@
             "nombre": "Peru",
             "nacionalidad": "",
             "iso_2": "PE",
-            "iso_3": "PER"
+            "iso_3": "PER",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1766,7 +2294,10 @@
             "nombre": "Philippines",
             "nacionalidad": "",
             "iso_2": "PH",
-            "iso_3": "PHL"
+            "iso_3": "PHL",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1776,7 +2307,10 @@
             "nombre": "Palau",
             "nacionalidad": "",
             "iso_2": "PW",
-            "iso_3": "PLW"
+            "iso_3": "PLW",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1786,7 +2320,10 @@
             "nombre": "Papua New Guinea",
             "nacionalidad": "",
             "iso_2": "PG",
-            "iso_3": "PNG"
+            "iso_3": "PNG",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1796,7 +2333,10 @@
             "nombre": "Poland",
             "nacionalidad": "",
             "iso_2": "PL",
-            "iso_3": "POL"
+            "iso_3": "POL",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1806,7 +2346,10 @@
             "nombre": "Puerto Rico",
             "nacionalidad": "",
             "iso_2": "PR",
-            "iso_3": "PRI"
+            "iso_3": "PRI",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1816,7 +2359,10 @@
             "nombre": "Korea, Democratic People's Republic of",
             "nacionalidad": "",
             "iso_2": "KP",
-            "iso_3": "PRK"
+            "iso_3": "PRK",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1826,7 +2372,10 @@
             "nombre": "Portugal",
             "nacionalidad": "",
             "iso_2": "PT",
-            "iso_3": "PRT"
+            "iso_3": "PRT",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1836,7 +2385,10 @@
             "nombre": "Paraguay",
             "nacionalidad": "",
             "iso_2": "PY",
-            "iso_3": "PRY"
+            "iso_3": "PRY",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1846,7 +2398,10 @@
             "nombre": "Palestine, State of",
             "nacionalidad": "",
             "iso_2": "PS",
-            "iso_3": "PSE"
+            "iso_3": "PSE",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1856,7 +2411,10 @@
             "nombre": "French Polynesia",
             "nacionalidad": "",
             "iso_2": "PF",
-            "iso_3": "PYF"
+            "iso_3": "PYF",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1866,7 +2424,10 @@
             "nombre": "Qatar",
             "nacionalidad": "",
             "iso_2": "QA",
-            "iso_3": "QAT"
+            "iso_3": "QAT",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1876,7 +2437,10 @@
             "nombre": "Réunion",
             "nacionalidad": "",
             "iso_2": "RE",
-            "iso_3": "REU"
+            "iso_3": "REU",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1886,7 +2450,10 @@
             "nombre": "Romania",
             "nacionalidad": "",
             "iso_2": "RO",
-            "iso_3": "ROU"
+            "iso_3": "ROU",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1896,7 +2463,10 @@
             "nombre": "Russian Federation",
             "nacionalidad": "",
             "iso_2": "RU",
-            "iso_3": "RUS"
+            "iso_3": "RUS",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1906,7 +2476,10 @@
             "nombre": "Rwanda",
             "nacionalidad": "",
             "iso_2": "RW",
-            "iso_3": "RWA"
+            "iso_3": "RWA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1916,7 +2489,10 @@
             "nombre": "Saudi Arabia",
             "nacionalidad": "",
             "iso_2": "SA",
-            "iso_3": "SAU"
+            "iso_3": "SAU",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1926,7 +2502,10 @@
             "nombre": "Sudan",
             "nacionalidad": "",
             "iso_2": "SD",
-            "iso_3": "SDN"
+            "iso_3": "SDN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1936,7 +2515,10 @@
             "nombre": "Senegal",
             "nacionalidad": "",
             "iso_2": "SN",
-            "iso_3": "SEN"
+            "iso_3": "SEN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1946,7 +2528,10 @@
             "nombre": "Singapore",
             "nacionalidad": "",
             "iso_2": "SG",
-            "iso_3": "SGP"
+            "iso_3": "SGP",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1956,7 +2541,10 @@
             "nombre": "South Georgia and the South Sandwich Islands",
             "nacionalidad": "",
             "iso_2": "GS",
-            "iso_3": "SGS"
+            "iso_3": "SGS",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1966,7 +2554,10 @@
             "nombre": "Saint Helena, Ascension and Tristan da Cunha",
             "nacionalidad": "",
             "iso_2": "SH",
-            "iso_3": "SHN"
+            "iso_3": "SHN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1976,7 +2567,10 @@
             "nombre": "Svalbard and Jan Mayen",
             "nacionalidad": "",
             "iso_2": "SJ",
-            "iso_3": "SJM"
+            "iso_3": "SJM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1986,7 +2580,10 @@
             "nombre": "Solomon Islands",
             "nacionalidad": "",
             "iso_2": "SB",
-            "iso_3": "SLB"
+            "iso_3": "SLB",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -1996,7 +2593,10 @@
             "nombre": "Sierra Leone",
             "nacionalidad": "",
             "iso_2": "SL",
-            "iso_3": "SLE"
+            "iso_3": "SLE",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2006,7 +2606,10 @@
             "nombre": "El Salvador",
             "nacionalidad": "",
             "iso_2": "SV",
-            "iso_3": "SLV"
+            "iso_3": "SLV",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2016,7 +2619,10 @@
             "nombre": "San Marino",
             "nacionalidad": "",
             "iso_2": "SM",
-            "iso_3": "SMR"
+            "iso_3": "SMR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2026,7 +2632,10 @@
             "nombre": "Somalia",
             "nacionalidad": "",
             "iso_2": "SO",
-            "iso_3": "SOM"
+            "iso_3": "SOM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2036,7 +2645,10 @@
             "nombre": "Saint Pierre and Miquelon",
             "nacionalidad": "",
             "iso_2": "PM",
-            "iso_3": "SPM"
+            "iso_3": "SPM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2046,7 +2658,10 @@
             "nombre": "Serbia",
             "nacionalidad": "",
             "iso_2": "RS",
-            "iso_3": "SRB"
+            "iso_3": "SRB",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2056,7 +2671,10 @@
             "nombre": "South Sudan",
             "nacionalidad": "",
             "iso_2": "SS",
-            "iso_3": "SSD"
+            "iso_3": "SSD",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2066,7 +2684,10 @@
             "nombre": "Sao Tome and Principe",
             "nacionalidad": "",
             "iso_2": "ST",
-            "iso_3": "STP"
+            "iso_3": "STP",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2076,7 +2697,10 @@
             "nombre": "Suriname",
             "nacionalidad": "",
             "iso_2": "SR",
-            "iso_3": "SUR"
+            "iso_3": "SUR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2086,7 +2710,10 @@
             "nombre": "Slovakia",
             "nacionalidad": "",
             "iso_2": "SK",
-            "iso_3": "SVK"
+            "iso_3": "SVK",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2096,7 +2723,10 @@
             "nombre": "Slovenia",
             "nacionalidad": "",
             "iso_2": "SI",
-            "iso_3": "SVN"
+            "iso_3": "SVN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2106,7 +2736,10 @@
             "nombre": "Sweden",
             "nacionalidad": "",
             "iso_2": "SE",
-            "iso_3": "SWE"
+            "iso_3": "SWE",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2116,7 +2749,10 @@
             "nombre": "Eswatini",
             "nacionalidad": "",
             "iso_2": "SZ",
-            "iso_3": "SWZ"
+            "iso_3": "SWZ",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2126,7 +2762,10 @@
             "nombre": "Sint Maarten (Dutch part)",
             "nacionalidad": "",
             "iso_2": "SX",
-            "iso_3": "SXM"
+            "iso_3": "SXM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2136,7 +2775,10 @@
             "nombre": "Seychelles",
             "nacionalidad": "",
             "iso_2": "SC",
-            "iso_3": "SYC"
+            "iso_3": "SYC",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2146,7 +2788,10 @@
             "nombre": "Syrian Arab Republic",
             "nacionalidad": "",
             "iso_2": "SY",
-            "iso_3": "SYR"
+            "iso_3": "SYR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2156,7 +2801,10 @@
             "nombre": "Turks and Caicos Islands",
             "nacionalidad": "",
             "iso_2": "TC",
-            "iso_3": "TCA"
+            "iso_3": "TCA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2166,7 +2814,10 @@
             "nombre": "Chad",
             "nacionalidad": "",
             "iso_2": "TD",
-            "iso_3": "TCD"
+            "iso_3": "TCD",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2176,7 +2827,10 @@
             "nombre": "Togo",
             "nacionalidad": "",
             "iso_2": "TG",
-            "iso_3": "TGO"
+            "iso_3": "TGO",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2186,7 +2840,10 @@
             "nombre": "Thailand",
             "nacionalidad": "",
             "iso_2": "TH",
-            "iso_3": "THA"
+            "iso_3": "THA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2196,7 +2853,10 @@
             "nombre": "Tajikistan",
             "nacionalidad": "",
             "iso_2": "TJ",
-            "iso_3": "TJK"
+            "iso_3": "TJK",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2206,7 +2866,10 @@
             "nombre": "Tokelau",
             "nacionalidad": "",
             "iso_2": "TK",
-            "iso_3": "TKL"
+            "iso_3": "TKL",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2216,7 +2879,10 @@
             "nombre": "Turkmenistan",
             "nacionalidad": "",
             "iso_2": "TM",
-            "iso_3": "TKM"
+            "iso_3": "TKM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2226,7 +2892,10 @@
             "nombre": "Timor-Leste",
             "nacionalidad": "",
             "iso_2": "TL",
-            "iso_3": "TLS"
+            "iso_3": "TLS",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2236,7 +2905,10 @@
             "nombre": "Tonga",
             "nacionalidad": "",
             "iso_2": "TO",
-            "iso_3": "TON"
+            "iso_3": "TON",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2246,7 +2918,10 @@
             "nombre": "Trinidad and Tobago",
             "nacionalidad": "",
             "iso_2": "TT",
-            "iso_3": "TTO"
+            "iso_3": "TTO",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2256,7 +2931,10 @@
             "nombre": "Tunisia",
             "nacionalidad": "",
             "iso_2": "TN",
-            "iso_3": "TUN"
+            "iso_3": "TUN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2266,7 +2944,10 @@
             "nombre": "Türkiye",
             "nacionalidad": "",
             "iso_2": "TR",
-            "iso_3": "TUR"
+            "iso_3": "TUR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2276,7 +2957,10 @@
             "nombre": "Tuvalu",
             "nacionalidad": "",
             "iso_2": "TV",
-            "iso_3": "TUV"
+            "iso_3": "TUV",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2286,7 +2970,10 @@
             "nombre": "Taiwan, Province of China",
             "nacionalidad": "",
             "iso_2": "TW",
-            "iso_3": "TWN"
+            "iso_3": "TWN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2296,7 +2983,10 @@
             "nombre": "Tanzania, United Republic of",
             "nacionalidad": "",
             "iso_2": "TZ",
-            "iso_3": "TZA"
+            "iso_3": "TZA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2306,7 +2996,10 @@
             "nombre": "Uganda",
             "nacionalidad": "",
             "iso_2": "UG",
-            "iso_3": "UGA"
+            "iso_3": "UGA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2316,7 +3009,10 @@
             "nombre": "Ukraine",
             "nacionalidad": "",
             "iso_2": "UA",
-            "iso_3": "UKR"
+            "iso_3": "UKR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2326,7 +3022,10 @@
             "nombre": "United States Minor Outlying Islands",
             "nacionalidad": "",
             "iso_2": "UM",
-            "iso_3": "UMI"
+            "iso_3": "UMI",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2336,7 +3035,10 @@
             "nombre": "Uruguay",
             "nacionalidad": "",
             "iso_2": "UY",
-            "iso_3": "URY"
+            "iso_3": "URY",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2346,7 +3048,10 @@
             "nombre": "United States",
             "nacionalidad": "",
             "iso_2": "US",
-            "iso_3": "USA"
+            "iso_3": "USA",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2356,7 +3061,10 @@
             "nombre": "Uzbekistan",
             "nacionalidad": "",
             "iso_2": "UZ",
-            "iso_3": "UZB"
+            "iso_3": "UZB",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2366,7 +3074,10 @@
             "nombre": "Holy See (Vatican City State)",
             "nacionalidad": "",
             "iso_2": "VA",
-            "iso_3": "VAT"
+            "iso_3": "VAT",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2376,7 +3087,10 @@
             "nombre": "Saint Vincent and the Grenadines",
             "nacionalidad": "",
             "iso_2": "VC",
-            "iso_3": "VCT"
+            "iso_3": "VCT",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2386,7 +3100,10 @@
             "nombre": "Venezuela, Bolivarian Republic of",
             "nacionalidad": "",
             "iso_2": "VE",
-            "iso_3": "VEN"
+            "iso_3": "VEN",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2396,7 +3113,10 @@
             "nombre": "Virgin Islands, British",
             "nacionalidad": "",
             "iso_2": "VG",
-            "iso_3": "VGB"
+            "iso_3": "VGB",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2406,7 +3126,10 @@
             "nombre": "Virgin Islands, U.S.",
             "nacionalidad": "",
             "iso_2": "VI",
-            "iso_3": "VIR"
+            "iso_3": "VIR",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2416,7 +3139,10 @@
             "nombre": "Viet Nam",
             "nacionalidad": "",
             "iso_2": "VN",
-            "iso_3": "VNM"
+            "iso_3": "VNM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2426,7 +3152,10 @@
             "nombre": "Vanuatu",
             "nacionalidad": "",
             "iso_2": "VU",
-            "iso_3": "VUT"
+            "iso_3": "VUT",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2436,7 +3165,10 @@
             "nombre": "Wallis and Futuna",
             "nacionalidad": "",
             "iso_2": "WF",
-            "iso_3": "WLF"
+            "iso_3": "WLF",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2446,7 +3178,10 @@
             "nombre": "Samoa",
             "nacionalidad": "",
             "iso_2": "WS",
-            "iso_3": "WSM"
+            "iso_3": "WSM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2456,7 +3191,10 @@
             "nombre": "Yemen",
             "nacionalidad": "",
             "iso_2": "YE",
-            "iso_3": "YEM"
+            "iso_3": "YEM",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2466,7 +3204,10 @@
             "nombre": "South Africa",
             "nacionalidad": "",
             "iso_2": "ZA",
-            "iso_3": "ZAF"
+            "iso_3": "ZAF",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2476,7 +3217,10 @@
             "nombre": "Zambia",
             "nacionalidad": "",
             "iso_2": "ZM",
-            "iso_3": "ZMB"
+            "iso_3": "ZMB",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     },
     {
@@ -2486,7 +3230,10 @@
             "nombre": "Zimbabwe",
             "nacionalidad": "",
             "iso_2": "ZW",
-            "iso_3": "ZWE"
+            "iso_3": "ZWE",
+            "habilitado": true,
+            "created_at": "2026-10-15T12:00:00",
+            "updated_at": "2026-10-15T12:00:00"
         }
     }
 ]
