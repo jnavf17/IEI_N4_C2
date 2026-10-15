@@ -203,8 +203,9 @@ class MetodoPago(models.Model):
     fecha_registro = models.DateTimeField(auto_now_add=True)
 
 class Region(models.Model):
+    codigo = models.CharField(str_codigo, max_length=10, default='')
     nombre = models.CharField("Region",max_length=50,null=False)
-    provincia = models.ForeignKey(Provincia, on_delete=models.CASCADE, related_name='regiones')
+    pais = models.ForeignKey(Pais, on_delete=models.CASCADE, related_name='regiones')
     habilitado = models.BooleanField("Habilitado",default=True)
     created_at = models.DateTimeField(fecha_creacion,auto_now_add=True)
     updated_at = models.DateTimeField(fecha_actualizacion,auto_now=True)
