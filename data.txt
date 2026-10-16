@@ -6,7 +6,7 @@ CREATE DATABASE aplicacion_fitnes;
 
 crear usuario local USUARIO con contraseña mypassword
 
-CREATE USER 'fitnes'@'localhost' IDENTIFIED BY 'fitnes1721';
+CREATE USER 'fitnes'@'localhost' IDENTIFIED BY 'ignacio1721';
 
 GRANT ALL PRIVILEGES ON aplicacion_fitnes.* TO 'fitnes'@'localhost';
 

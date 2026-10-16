@@ -45,17 +45,6 @@ class Comuna(models.Model):
 
 
 class Usuario(models.Model):
-    nombre = models.CharField("Pais",max_length=50,null=False)
-    nacionalidad = models.CharField("Nacionalidad",max_length=30,null=False)
-    iso_2 = models.CharField("ISO 2",max_length=2,null=False)
-    iso_3 = models.CharField("ISO 3",max_length=3,null=False)
-    habilitado = models.BooleanField("Habilitado",default=True)
-    created_at = models.DateTimeField(fecha_creacion,auto_now_add=True)
-    updated_at = models.DateTimeField(fecha_actualizacion,auto_now=True)
-
-
-
-class Usuario(models.Model):
     nombre = models.CharField(max_length=100, null=False)
     email = models.CharField(max_length=100, null=False, unique=True)
     password = models.CharField(max_length=128, null=False)
@@ -80,17 +69,6 @@ class Entrenador(models.Model):
     created_at = models.DateTimeField(fecha_creacion,auto_now_add=True)
     updated_at = models.DateTimeField(fecha_actualizacion,auto_now=True)
     
-
-
-# Herencia multi-tabla: un Entrenador ES un Usuario, con atributos adicionales
-class Entrenador(models.Model):
-    especialidad = models.CharField(max_length=100, null=True, blank=True)
-    certificaciones = models.CharField(max_length=200, null=True, blank=True)
-    años_experiencia = models.IntegerField(null=True, blank=True, default=0)
-    created_at = models.DateTimeField(fecha_creacion,auto_now_add=True)
-    updated_at = models.DateTimeField(fecha_actualizacion,auto_now=True)
-    
-
 
 class Ejercicio(models.Model):
     GRUPO_MUSCULAR_CHOICES = (
