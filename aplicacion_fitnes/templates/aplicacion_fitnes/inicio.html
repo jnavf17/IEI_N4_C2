@@ -1,129 +1,133 @@
-<!DOCTYPE html>
-<html lang="es">
-    <head>
-        <meta charset="UTF-8">
-        <title>FitApp - Entrena Mejor</title>
-        <style>
-            * { margin:0;
-                padding:0;
-                box-sizing:border-box;
-            }
-            body { font-family: Arial, Helvetica, sans-serif;}
 
-            .topbar {
-                background-color: #080808;
-                color: white;
-                text-align: center;
-                padding: 8px;
-                font-size: 14px;
-            }
 
-            header {
-                background-color: #06b6e2;
-                padding: 20px 60px;
-                display: flex;
-                justify-content: space-between;
-                align-items: center;
-                color: white;
-            }
-
-            .logo{
-                font-size: 24px;
-                font-weight: bold;
-            }
-
-            nav a {
-                color: white;
-                text-decoration: none;
-                margin: 0 15px;
-                font-size: 15px;
-            }
-
-            .btn-outline {
-                border: 2px solid white;
-                padding: 8px 18px;
-                border-radius: 5px;
-                color: white;
-                text-decoration: none;
-            }
-
-            .hero {
-                background-color: #4a3ef3;
-                color: white;
-                text-align: center;
-                padding: 60px 20px 100px;
-            }
-
-            .hero h1 {
-                font-size: 18px;
-                margin-bottom: 30px;
-            }
-
-            .hero p {
-                font-size: 18px;
-                margin-bottom: 30px;
-            }
-
-            .form-box {
-                display: flex;
-                justify-content: center;
-                gap: 10px;
-                margin-bottom: 20px;
-                flex-wrap: wrap;
-            }
-
-            .form-box input {
-                padding: 14px;
-                width: 220px;
-                border: none;
-                border-radius: 5px;
-                
-            }
-            
-            .btn-cta {
-                background-color: #060606;
-                color: white;
-                border: none;
-                padding: 16px 40px;
-                font-size: 18px;
-                border-radius: 5px;
-                cursor: pointer;
-                margin-bottom: 10px;
-            }
-
-            .small-text {
-                font-size: 13px;
-                opacity: 0.9;
-            }
-        </style>
-    </head>
-    <body>
-
-        <div class="topbar">
-            ¿Tienes preguntas? Contáctanos al +56-91234567-FitApp
-        </div>
-        <header>
-            <div class="logo">💪FitApp</div>
-            <nav>
-                <a href="#">Rutinas</a>
-                <a href="#">Beneficios</a>
-                <a href="#">Blogs</a>
-                <a href="#">Más</a>
-                <a href="#">Iniciar Sesión</a>
-            </nav>
-            <a href="#" class="btn-outline">Pruébalo Gratis</a>
-        </header>
-        <section class="hero">
-            <h1>La App de Fitness<br>Diseñada Para Ti</h1>
-            <p>Entrena mejor, come mejor y sigue tu progreso de forma fácil, rápida y segura.<br>
-            Empieza a registrar tus rutinas, seguir tu peso y controlar tus comidas en minutos.</p>
-
-            <div class="form-box">
-                <input type="text" placeholder="Nombre">
-                <input type="email" placeholder="Correo electrónico">
+Inicio · HTML
+{% extends 'base.html' %}
+ 
+{% block titulo %}
+    <title>FitApp - Entrena Mejor</title>
+{% endblock %}
+ 
+{% block contenido %}
+    <section class="hero text-center py-5">
+ 
+        <div class="hero-content">
+ 
+            <h1 class="display-5 fw-bold">
+                La App de Fitness
+                <span class="text-primary">Diseñada Para Ti</span>
+            </h1>
+ 
+            <p class="lead">
+                Entrena mejor, come mejor y sigue tu progreso de forma fácil, rápida y segura.
+                Empieza a registrar tus rutinas, seguir tu peso y controlar tus comidas en minutos.
+            </p>
+ 
+            <div class="row justify-content-center g-2 mb-3">
+ 
+                <div class="col-md-3">
+                    <input
+                        type="text"
+                        class="form-control"
+                        placeholder="Nombre"
+                    >
+                </div>
+ 
+                <div class="col-md-3">
+                    <input
+                        type="email"
+                        class="form-control"
+                        placeholder="Correo electrónico"
+                    >
+                </div>
+ 
             </div>
-
-            <button class="btn-cta">Pruébalo Gratis por 30 Días</button>
-        </section>
-    </body>
-</html>
+ 
+            <button class="btn btn-primary btn-lg">
+                Pruébalo Gratis por 30 Días
+            </button>
+ 
+        </div>
+ 
+    </section>
+ 
+ 
+    <!-- QUICK ACCESS -->
+ 
+    <section class="quick-access py-4">
+ 
+        <div class="section-title text-center mb-4">
+ 
+            <h2>Explora FitApp</h2>
+ 
+            <p>
+                Encuentra rápidamente lo que necesitas para entrenar
+            </p>
+ 
+        </div>
+ 
+ 
+        <div class="row cards">
+ 
+            <div class="col-md-4 mb-3">
+                <div class="card h-100 text-center">
+                    <div class="card-body">
+ 
+                        <div class="card-icon display-5">
+                            🏋️
+                        </div>
+ 
+                        <h3 class="card-title">Rutinas</h3>
+ 
+                        <p class="card-text">
+                            Registra y organiza tus rutinas
+                            de entrenamiento.
+                        </p>
+ 
+                    </div>
+                </div>
+            </div>
+ 
+ 
+            <div class="col-md-4 mb-3">
+                <div class="card h-100 text-center">
+                    <div class="card-body">
+ 
+                        <div class="card-icon display-5">
+                            📈
+                        </div>
+ 
+                        <h3 class="card-title">Progreso</h3>
+ 
+                        <p class="card-text">
+                            Sigue tu peso y mira cómo
+                            avanzas con el tiempo.
+                        </p>
+ 
+                    </div>
+                </div>
+            </div>
+ 
+ 
+            <div class="col-md-4 mb-3">
+                <div class="card h-100 text-center">
+                    <div class="card-body">
+ 
+                        <div class="card-icon display-5">
+                            🥗
+                        </div>
+ 
+                        <h3 class="card-title">Comidas</h3>
+ 
+                        <p class="card-text">
+                            Controla tus comidas y mantén
+                            una alimentación saludable.
+                        </p>
+ 
+                    </div>
+                </div>
+            </div>
+ 
+        </div>
+ 
+    </section>
+{% endblock %}
